@@ -2,6 +2,8 @@
 用My Content Module做汉化vtt世界包，Pathfinder Society 2e模组，Intro#1 The Second Confirmation二度试炼。
 喜欢的话在github里点一下star就再好不过了，谢谢。
 
+需要原模组/模组汉化请移步 http://45.79.87.129/bbs/?topic=115097.0
+
 依赖MOD：pf2e-tokens-bestiaries（可以在 http://45.79.87.129/bbs/index.php?topic=137587.0 里找到下载链接），不过不是硬性依赖项，这个MOD是提供怪物立绘的，如果不介意大部分怪物没有立绘不开也行。
 
 FVTT-core版本：11-11.315（写11.315是因为制作的时候我是11.315）能不能适配以后或者以前的版本没有试。
